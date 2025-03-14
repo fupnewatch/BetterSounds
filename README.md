@@ -35,4 +35,4 @@
 
 ㅤOrb
 
-ㅤDig (to make it work, follow the assets/minecraft/sounds path to find the "dig (useless)" folder and remove "(useless)" what would happen is just dig)
+ㅤDig (to make it work, follow the assets/minecraft/sounds path to find the "dig (useless)" folder and remove "ㅤ(useless)" what would happen is just dig)
