@@ -1,28 +1,38 @@
-# VanillaPack by Fupnew
+# BetterSounds by Fupnew
 
 ### Version: 1.21.x
-### Packs:
+### Changed sounds:
 
-ㅤClearer Water
+ㅤRain & thunder
 
-ㅤBrewing Guide
+ㅤHit & Crit
 
-ㅤAlternate Enchant Glint
+ㅤFire
 
-ㅤLower Shield
+ㅤPortal & Trigger
 
-ㅤSmaller Utilities
+ㅤAnvil break & land & use
 
-ㅤUnobtrusive Rain
+ㅤbow heat & hit & Successful hit
 
-ㅤUnobtrusive Snow
+ㅤBreak
 
-ㅤLower Fire
+ㅤBurp
 
-ㅤBetter Damage Sound
+ㅤClick
 
-ㅤSmaller Tallgrass
+ㅤDoor close & open
 
-ㅤ3d Crystals
+ㅤDrink
 
-### More comming soon...
+ㅤEat
+
+ㅤExplode & Fuze
+
+ㅤPoiton splash
+
+ㅤLevel up
+
+ㅤOrb
+
+ㅤDig (to make it work, follow the assets/minecraft/sounds path to find the "dig (useless)" folder and remove "(useless)" what would happen is just dig)
